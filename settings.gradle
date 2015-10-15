@@ -1,1 +1,1 @@
-include ':app', ':ejswipe'
+include ':app', ':ejswipe', ':exlistfragment'
